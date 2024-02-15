@@ -1,0 +1,14 @@
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\bin\Debug\net8.0\Egzoplanety.exe
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\bin\Debug\net8.0\Egzoplanety.deps.json
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\bin\Debug\net8.0\Egzoplanety.runtimeconfig.json
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\bin\Debug\net8.0\Egzoplanety.dll
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\bin\Debug\net8.0\Egzoplanety.pdb
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.AssemblyInfo.cs
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.dll
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\refint\Egzoplanety.dll
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.pdb
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\Egzoplanety.genruntimeconfig.cache
+C:\Users\redek\source\repos\Narzędzia\Egzoplanety\obj\Debug\net8.0\ref\Egzoplanety.dll
